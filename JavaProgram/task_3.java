@@ -4,7 +4,7 @@
 import java.util.Scanner;
 
 class BankAccount {
-    private double balance;
+    private double balance;   
 
     // Constructor
     public BankAccount(double initialBalance) {
