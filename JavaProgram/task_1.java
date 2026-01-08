@@ -5,7 +5,7 @@
 import java.util.Scanner; 
 import java.util.Random;
 
-public class task_1 {
+public class task_1 { 
 
     public static void playGame(Scanner scanner) {
         Random random = new Random();
